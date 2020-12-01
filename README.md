@@ -15,3 +15,5 @@ The first file to create (and add and commit) is probably a ReadMe file, either 
 
 Markdown allows you to add a bit of text markup, like hyperlinks, bold/italics, or to indicate code with a monospace font. Markdown is easily converted to html for viewing in a web browser, and GitHub will do this for you automatically.
 
+https://kbroman.org/github_tutorial/pages/init.html
+
